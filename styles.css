@@ -1,0 +1,23 @@
+body {
+    background-color: #15202B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #1DA1F2;
+    padding: 24px;
+    text-align: center;
+}
+
+.container {
+    color: #1DA1F2;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    padding: 5px;
+}
